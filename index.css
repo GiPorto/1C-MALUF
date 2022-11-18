@@ -29,10 +29,9 @@ p {
 }
 #imagem-principal {
     width: 15%;
-    margin-left: 50%;
+    margin-left: 25%;
     border: 5px dotted rgb(0, 0, 0);
     float: left;
-    position: absolute;
 }
 
 .itens {
